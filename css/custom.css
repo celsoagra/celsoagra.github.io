@@ -1,0 +1,16 @@
+body {
+    background-color: #363636;
+    height: 100vh;
+}
+
+.pointer-simple {
+    cursor: context-menu;
+}
+
+.is-circle {
+    border-radius: 290486px;
+}
+
+.is-borded {
+    border: 15px solid #202020;
+}
