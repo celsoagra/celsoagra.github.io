@@ -4,6 +4,11 @@ html {
    width: 100%;
 }
 
+.logo {
+    background-image: url(../logo.jpg);
+    background-position-y: -20px;
+}
+
 body {
    margin: 0px;
    min-height: 100%;
