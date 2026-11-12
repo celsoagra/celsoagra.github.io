@@ -1,0 +1,4 @@
+baseURL = 'https://celsoagra.github.io/'
+locale = 'pt-br'
+title = "Celso Agra Github"
+theme = 'PaperMod'
